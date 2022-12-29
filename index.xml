@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sreehari</title>
+    <link>https://sreehari-m-nambiar.github.io/</link>
+    <description>Recent content on Sreehari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sreehari-m-nambiar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://sreehari-m-nambiar.github.io/about/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreehari-m-nambiar.github.io/about/</guid>
+      <description>Aspiring software engineer with demonstrated working history in iOS Development. I&amp;rsquo;ve developed softwares for iPhones and iPads using languages like Swift and Objective-C.
+I’m incredibly passionate about programming, design and product development. I, currently, work as an iOS Engineer at Gojek.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to MVVM using SwiftUI and Combine</title>
+      <link>https://sreehari-m-nambiar.github.io/posts/external-post/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sreehari-m-nambiar.github.io/posts/external-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
